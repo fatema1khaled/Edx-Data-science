@@ -905,10 +905,7 @@ project, may be unenrolled from the course, and will be ineligible for a certifi
 
 
 #### A.1.4 Project Due Date \
-Submissions for the Movielens project are due one week before course close, on July 28, 2021, 
-at 23:59 UTC. 
-This allows time for peer grading to occur! Peer grades are due at course close, on 
-August 4, 2021, at 23:59 UTC. 
+Submissions for the Movielens project are due one week before course close, on March 9, 2022, at 23:59 UTC. This allows time for peer grading to occur! Peer grades are due at course close, on March 16, 2022, at 23:59 UTC.
 
 #### A.1.5 Peer Feedback \
 You are strongly encouraged to give your peers thoughtful, specific written feedback in addition
